@@ -39,7 +39,7 @@ jobs:
       - name: Docker Build and Push
         env:
           REGISTRY: docker.io
-          REPOSITORY: dhanuj1611/demo-app
+          REPOSITORY: dhanuj16/demo-app
           IMAGE_TAG: latest
         run: |
           echo "Building Docker image..."
