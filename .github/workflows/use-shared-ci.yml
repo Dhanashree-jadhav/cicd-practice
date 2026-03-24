@@ -1,0 +1,11 @@
+name: Use Shared CI Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  call-shared-workflow:
+    uses: Dhanashree-jadhav/shared-workflows/.github/workflows/shared-ci.yml@main
