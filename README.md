@@ -1,6 +1,9 @@
 # cicd-practice
 # 🚀 CI/CD Workflow Assignment - GitHub Actions
 # Testing PR validation
+
+# updated readme for shared workflow  
+
 ## 📌 Overview
 
 This project demonstrates the implementation of a **CI/CD pipeline using GitHub Actions**.
